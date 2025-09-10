@@ -22,7 +22,7 @@ form{
 #textBox
 {
     width: 50%;
-    text-align: center;
+    text-align:center;
     font-size: 2em;
     border: 2px solid hsl(0,0%,0%,0.8);
     border-radius: 4px;
