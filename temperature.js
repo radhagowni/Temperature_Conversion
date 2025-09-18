@@ -18,6 +18,6 @@ function convert(){
         result.textContent=temp.toFixed(1)+"°C";
     }
     else{
-        result.textContent="Select a unit"
+        result.textContent= "Select a unit"
     }
 }
