@@ -1,3 +1,4 @@
+// javascript code to make the web page responsive
 const textBox=document.getElementById("textBox");
 const toFahrenheit=document.getElementById("toFahrenheit");
 const toCelsius=document.getElementById("toCelsius");
