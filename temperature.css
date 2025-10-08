@@ -1,3 +1,4 @@
+/* The properties written inside body will be applicable to entire body*/
 body{
     font-family: Arial, Helvetica, sans-serif;
     background:linear-gradient(white , pink);
