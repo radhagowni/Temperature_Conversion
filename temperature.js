@@ -4,7 +4,7 @@ const toFahrenheit=document.getElementById("toFahrenheit");
 const toCelsius=document.getElementById("toCelsius");
 const result=document.getElementById("result");
 let temp;
-
+// this function will be called if the user click on the buttons
 function convert(){
     if(toFahrenheit.checked)
     {
